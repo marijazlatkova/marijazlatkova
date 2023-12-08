@@ -11,7 +11,7 @@ I'm on an exhilarating journey of discovery in the fascinating realm of coding. 
 
 ## 🔧 Skills at a Glance
 - **Languages:** HTML, CSS, JavaScript
-- **Frontend:** SASS, Currently learning React.js
+- **Frontend:** SASS, React.js
 - **Backend:** Node.js (with Express.js)
 - **Databases:** MongoDB
 - **Tools:** Visual Studio Code, Postman
