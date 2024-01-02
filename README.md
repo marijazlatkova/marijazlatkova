@@ -14,7 +14,7 @@ I'm on an exhilarating journey of discovery in the fascinating realm of coding. 
 - **Frontend:** SASS, React.js
 - **Backend:** Node.js (with Express.js)
 - **Databases:** MongoDB
-- **Tools:** Visual Studio Code, Postman
+- **Tools:** Visual Studio Code, Postman, Slack
 - **Open Source:** Git, GitHub
 
 💼 **Internship Opportunity:**
