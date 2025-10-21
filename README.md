@@ -7,7 +7,7 @@ Right now, I’m working full-time while creating Frontend Mentor challenges and
 
 ## 💡 About Me
 
-I studied web development at **Semos Academy**, where I built a strong foundation in both frontend and backend.
+I studied web development at **Semos Academy**, where I built a strong foundation in both frontend and backend technologies.
 I enjoy writing maintainable code, solving UI challenges, and continuously improving my workflow.
 
 ## 🔧 Tech Stack
