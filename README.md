@@ -1,4 +1,4 @@
-# 🚀 Welcome to my GitHub
+Welcome to My Coding Journey! 🚀
 
 Hi there, my name is Marija Zlatkova! 👋
 
