@@ -1,39 +1,33 @@
-# Welcome to My Coding Journey! 🚀 
+# 🚀 Welcome to GitHub
 
 Hi there, my name is Marija Zlatkova! 👋
 
-I'm on an exhilarating journey of discovery in the fascinating realm of coding. If you stumbled upon my GitHub profile, you've found a front-row seat to witness my growth as a developer.
+I’m a web developer passionate about building clean, responsive, and user-friendly interfaces.  
+Right now, I’m working full-time while creating Frontend Mentor challenges and planning my personal blog.
 
-## 🌱 About Me:
+## 💡 About Me
 
-💡 Currently learning and exploring the captivating world of programming;
+I studied web development at **Semos Academy**, where I built a strong foundation in both frontend and backend.
+I enjoy writing maintainable code, solving UI challenges, and continuously improving my workflow.
 
-🎓 A graduate of Semos Academy, where I developed a strong foundation in web development;
+## 🔧 Tech Stack
 
-🌐 Passionate about web development and eager to dive deeper into coding challenges;
+**Languages:** JavaScript · TypeScript · HTML · CSS
+**Frontend:** React · Vue (beginner) · Next.js (learning) · Sass (SCSS) · Tailwind CSS · Astro (learning)
+**Backend:** Node.js · Express.js
+**Databases:** MongoDB · PostgreSQL
+**Tools:** Git · VS Code · Postman · Slack
+**Version Control Platforms:** GitHub · Bitbucket · GitLab
 
-📚 Enthusiastic about building exciting projects and contributing to open-source initiatives.
+## ⚙️ Current Focus
 
-## 🔧 Skills at a Glance:
+- Building responsive layouts through Frontend Mentor challenges
+- Planning my personal blog with Next.js or Astro
+- Learning Astro and Next.js
+- Exploring Tailwind CSS
+- 
+## 📫 Get in Touch
 
-**Languages:** HTML, CSS, JavaScript, TypeScript
-
-**Frontend:** SASS, React.js
-
-**Backend:** Node.js, Express.js, Docker
-
-**Databases:** MongoDB, PostgreSQL (with pgAdmin)
-
-**Tools:** Visual Studio Code, Postman, Slack
-
-**Open Source:** Git, GitHub, Bitbucket
-
-## 💬 Let's Learn Together:
-
-I believe in the power of community and collaboration. As I learn, I'd love to connect with fellow learners, experienced developers, and anyone who shares a passion for coding. Feel free to reach out, share your insights, or even embark on coding adventures together!
-
-## 📫 Get in Touch:
-
-You can reach me at marijazlatkova44@yahoo.com
-
-Stay tuned as my coding journey unfolds right here on GitHub. Together, we'll transform lines of code into exciting projects and make strides in the ever-evolving world of technology! 🌐👩‍💻
+**Email:** marijazlatkova44@yahoo.com
+**LinkedIn:** [linkedin.com/in/marijazlatkova](https://www.linkedin.com/in/marijazlatkova)
+**GitHub:** [github.com/marijazlatkova](https://github.com/marijazlatkova)
