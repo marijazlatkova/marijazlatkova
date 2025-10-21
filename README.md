@@ -28,6 +28,6 @@ I enjoy writing maintainable code, solving UI challenges, and continuously impro
 - 
 ## 📫 Get in Touch
 
-**Email:** marijazlatkova44@yahoo.com  
-**LinkedIn:** [linkedin.com/in/marijazlatkova](https://www.linkedin.com/in/marijazlatkova)  
-**GitHub:** [github.com/marijazlatkova](https://github.com/marijazlatkova)  
+**Email:** marijazlatkova44@yahoo.com 
+**LinkedIn:** [linkedin.com/in/marijazlatkova](https://www.linkedin.com/in/marijazlatkova) 
+**GitHub:** [github.com/marijazlatkova](https://github.com/marijazlatkova) 
