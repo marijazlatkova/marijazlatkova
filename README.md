@@ -1,4 +1,4 @@
-Welcome to My Coding Journey! 🚀
+# Welcome to My Coding Journey! 🚀
 
 Hi there, my name is Marija Zlatkova! 👋
 
