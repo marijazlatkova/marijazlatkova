@@ -13,7 +13,7 @@ I enjoy writing maintainable code, solving UI challenges, and continuously impro
 ## 🔧 Tech Stack  
 
 **Languages:** JavaScript · TypeScript · HTML · CSS  
-**Frontend:** React · Vue (beginner) · Next.js (learning) · SASS · Tailwind CSS · Astro (learning)  
+**Frontend:** React · React Native · Vue (beginner) · Next.js (learning) · SASS · Tailwind CSS · Astro (learning)  
 **Backend:** Node.js · Express.js  
 **Databases:** MongoDB · PostgreSQL  
 **Tools:** Git · VS Code · Postman · Slack  
